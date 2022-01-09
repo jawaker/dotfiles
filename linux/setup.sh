@@ -28,6 +28,8 @@ else
   echo "=================================================="
 fi
 
+sudo apt-get install vim-gtk3 -y
+
 exit
 
 # STEP 4: Install oh-my-zsh
